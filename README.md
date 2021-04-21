@@ -240,4 +240,4 @@ What is the Unlicense?
       Language Matters: Framing The Copyright Monopoly So We Can Keep Our Liberties
 
 ## Screenshot
-![Screenshot](./assets/img/screenshot.png)
+![Gif](./assets/gif/recording.gif)
